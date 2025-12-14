@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I build mobile apps and games that people come back to.
-
 Mobile & Unity Software Engineer with a product mindset, specializing in engagement systems, monetization mechanics, and performance optimization. My work has increased retention (+13%), subscriptions (+5%), and download rates through smarter UX and engineering decisions.
 
 Core stack: Unity, C#, Objective-C, React, Node, SQL. Background in large-scale education platforms (65k+ users) and learning design.
