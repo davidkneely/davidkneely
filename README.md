@@ -2,7 +2,7 @@
 
 I'm a Mobile & Unity Software Engineer with a product mindset, specializing in systems design, monetization mechanics, and performance optimization. My work has increased retention (+13%), subscriptions (+5%), and download rates for my clients.
 
-Core stack: Unity, C#, Objective-C, React, Node, SQL. Background in large-scale education platforms (65k+ users) and I have a Master's in Learning Design and Educational Technology.
+Core stack: Unity, C#, Swift, Objective-C, React, Node, SQL.
 
 I'm open to contract work • UK work eligible
 
